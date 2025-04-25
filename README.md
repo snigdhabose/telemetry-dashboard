@@ -2,6 +2,8 @@
 
 An interactive Streamlit application for analyzing system residency telemetry data.
 
+## 🔗 Live Demo: https://telemetry-dashboard.streamlit.app/
+
 ## Features
 
 - **Daily Patterns**: Visualize 24-hour residency cycles with rolling averages and FFT periodograms.
