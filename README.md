@@ -53,28 +53,6 @@ streamlit run app.py
 - Open http://localhost:8501 in your browser.  
 - Select a system from the sidebar and explore metrics and plots.  
 
-## Deployment
-
-### Deploying to Heroku
-
-1. Create a Heroku app:
-   ```bash
-   heroku create <your-app-name>
-   ```
-2. Push to Heroku:
-   ```bash
-   git push heroku main
-   heroku ps:scale web=1
-   heroku open
-   ```
-
-### Deploying to Streamlit Community Cloud
-
-1. Push your code to a public GitHub repository.  
-2. Go to https://share.streamlit.io and sign in.  
-3. Click "New app", select your repo, branch, and `app.py` as the entry point.  
-4. Click "Deploy" and share the generated URL.  
-
 ## Project Structure
 
 ```text
