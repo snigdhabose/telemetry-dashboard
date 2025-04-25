@@ -31,7 +31,7 @@ An interactive Streamlit application for analyzing system residency telemetry da
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/telemetry-dashboard.git
+git clone https://github.com/snigdhabose/telemetry-dashboard.git
 cd telemetry-dashboard
 
 # (Optional) Create a virtual environment
